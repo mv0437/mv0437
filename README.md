@@ -5,4 +5,4 @@ mv0437
 # Professor
  Dr. Jacob Hochstetler
  # Student
- me (Mani Raju Kumar Velagapudi)
+ me - Mani Raju Kumar Velagapudi
